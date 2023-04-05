@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ex3</string>
+    <string-array name="shape">
+        <item>Circle</item>
+        <item>Square</item>
+        <item>Line</item>
+    </string-array>
+</resources>
